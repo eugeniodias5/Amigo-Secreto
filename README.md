@@ -4,7 +4,7 @@ Aplicação que organiza a tradicional brincadeira Amigo Secreto.
 ---
 # Sobre
 O amigo secreto consiste em uma brincadeira na qual cada partcipante recebe, por sorteio, o nome de um amigo. Cada participante deve comprar um presente para seu amigo secreto e, no dia da brincadeira, os presentes serão trocados. 
-A aplicação automatiza o sorteio e envio das informações para cada participante. Basta adicionar o e-mail e o nome de cada participante, a aplicação realizará o sorteio e enviará, por e-mail, o amigo secreto sorteado para cada participante. 
+A aplicação automatiza o sorteio e envio das informações. Basta adicionar o e-mail e o nome de cada participante, a aplicação realizará o sorteio e enviará, por e-mail, o amigo secreto sorteado para cada participante. 
 
 ---
 # Tecnolologias
