@@ -1,5 +1,5 @@
 <?php
-  require_once 'barra_navegacao.php';
+  require_once 'View/barra_navegacao.php';
 
 ?>
 
@@ -113,9 +113,9 @@
                   <div class="card-body">
                     <!-- <h5 class="card-title">Algumas instruções</h5> -->
                     <p class="card-text">
-                      Cadastre o nome e o email dos participantes, ao final, será realizado um sorteio e cada participante receberá 
+                      Cadastre o nome e o e-mail dos participantes, ao final, será realizado um sorteio e cada participante receberá 
                       um email com o seu amigo sorteado. Não é possível
-                      adicionar participantes com emails iguais. Na aba "Participantes", você poderá ver a lista
+                      adicionar participantes com e-mails iguais. Na aba "Participantes", você poderá ver a lista
                       de participantes cadastrados.
                     </p>
                   </div>  
