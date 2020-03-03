@@ -68,7 +68,7 @@
           </form>
   
 
-            <!--Modal de envio de formulário com sucesso-->
+            <!--Modal de envio de formulário-->
             <div class="modal fade" id="modal" tabindex="-1" role="dialog" aria-labelledby="tituloModal" aria-hidden="true">
               <div class="modal-dialog" role="document">
                 <div class="modal-content">

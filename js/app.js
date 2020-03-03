@@ -34,7 +34,7 @@ function envioCorretoDeDados(){
             if(url.includes('erro2')){
                 exibeModal()
                 document.getElementById('tituloModal').innerHTML = 'Erro'
-                document.getElementById('modalMensagem').innerHTML = 'É necessário um número par de participantes para realizar o sorteio'
+                document.getElementById('modalMensagem').innerHTML = 'São necessários, ao menos, dois participantes'
                 document.getElementById('botaoModal').className = 'btn btn-danger'
             }
 

@@ -3,8 +3,8 @@
     session_start();
     
     if(isset($_SESSION['participantes'])){
-        //Checando se o número de participantes é ímpar, caso não seja, volta e exibe modal de erro
-        if((sizeof($_SESSION['participantes']) % 2) != 0){
+        //Checando se o número de participantes é maior que 1, caso não seja, volta e exibe modal de erro
+        if(sizeof($_SESSION['participantes']) == 1){
             header('Location: ../View/index.php?erro2');
         }
 

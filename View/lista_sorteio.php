@@ -64,7 +64,7 @@
                     </thead>
 
                     <tbody>
-                      <?
+                      <?php
                       $numParticipantes = sizeof($_SESSION['participantes']);
                       for($indice = 0; $indice < ($numParticipantes - 1); $indice++){
                         echo "<tr>
